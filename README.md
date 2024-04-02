@@ -1,0 +1,1 @@
+This package contains frequently used functions and utilities in react and nextjs applications
